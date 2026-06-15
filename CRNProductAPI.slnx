@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../CRNProductAPI.Application/CRNProductAPI.Application.csproj" />
+  <Project Path="../CRNProductAPI.Domain/CRNProductAPI.Domain.csproj" />
+  <Project Path="../CRNProductAPI.Infrastructure/CRNProductAPI.Infrastructure.csproj" />
+  <Project Path="CRNProductAPI.csproj" />
+</Solution>
